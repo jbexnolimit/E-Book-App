@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "771949991694",
+    "firebase_url": "https://book-app-d4fb4-default-rtdb.firebaseio.com",
+    "project_id": "book-app-d4fb4",
+    "storage_bucket": "book-app-d4fb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771949991694:android:59326bc460eb5531f1e95f",
+        "android_client_info": {
+          "package_name": "com.benskie.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771949991694-krjcmvneqs8la46o2qvv0mehq5st0i2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.benskie.bookapp",
+            "certificate_hash": "c96a7f525cbe7d22b27e346886d4b0689d706e22"
+          }
+        },
+        {
+          "client_id": "771949991694-2i4ql9i2q23mas8meq780ku9cfg7j4t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQOL4NlwKXSGRLwzMRT3iUCvf4NVDzTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771949991694-2i4ql9i2q23mas8meq780ku9cfg7j4t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
